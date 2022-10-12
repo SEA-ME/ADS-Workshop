@@ -3,8 +3,8 @@
 - PiRacer up and running (should be controlled by Web interface and Gamepad controller) 
   - Make sure the PiRacer has a unique identification name
   - Removed the cooler to make battery pack fit on PiRacer
-- LiDAR sensor - should be able to rotate when connected using USB Data cabel to PC/RPi
-- USB Data Cable
+- LiDAR sensor - should be able to rotate when connected using Mirco USB Data cabel to PC/RPi
+- Micro USB Data Cable
 - Positioning LiDAR sensor
   - Make sure that the front of LiDAR sensor is free from any obstacles.
   - Make sure the LiDAR sensor is not placed too high on the PiRacer (if it is placed high then it won't detect other cars below its horizon level)
